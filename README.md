@@ -13,14 +13,24 @@ Soluzione Implementata:
 
 Dashboard Dinamica per il Monitoraggio delle Attività:
 Visualizzazioni Principali: Vendite nel tempo, profitto per paese, e classi di spedizione dei prodotti.
+
 Filtri Dinamici: Permettono agli utenti di personalizzare la visualizzazione dei dati.
+
 Extra Insights: Tendenze stagionali di vendita e analisi delle performance per categoria di prodotto.
+
 Analisi per Allocare il Budget di Marketing:
+
 Tableau Story: Segue la regola delle 3C (contesto, conflitto, conclusione) per illustrare chiaramente i dati e le raccomandazioni.
+
 Decisioni di Marketing: Identificazione dei prodotti su cui aumentare o ridurre l'investimento e suggerimenti per l'eliminazione di alcuni articoli dal catalogo.
+
 Insights Aggiuntivi per il Miglioramento Continuo:
+
 Analisi delle Spedizioni e Soddisfazione del Cliente: Correlazione tra metodi di spedizione rapidi e una maggiore soddisfazione del cliente.
+
 Potenziali Mercati: Rivelazione di mercati sotto-sfruttati attraverso un'analisi dettagliata per città e paese.
+
+
 Tecnologie Utilizzate:
 
 Tableau Desktop: per la creazione di dashboard e storie interattive.
